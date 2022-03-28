@@ -39,7 +39,7 @@ Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> ex
 <p align="center"><img height="180em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=eliaszon&theme=github_dark" alt="eliaszon" align = "center"/></p>
 
   <summary><b>⚡ Github Stats</b></summary>
-<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliaszonzon&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="eliaszon" align = "center"/>
+<p align="center"><img height="180em" src="https://github-readme-stats.vercel.app/api?username=eliaszon&hide_border=true&count_private=true&show_icons=true&theme=radical" alt="eliaszon" align = "center"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs?username=eliaszon&show_icons=true&locale=en&layout=compact&hide_border=true&theme=radical" alt="eliaszon" align = "center"/></p>
 
  <summary><b>🔥 Github Streaks</b></summary>
