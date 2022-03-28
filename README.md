@@ -1,4 +1,4 @@
-<a href="www.eliaszon.com">
+<a href="https://www.eliaszon.com/">
   <img width="100%" src="https://user-images.githubusercontent.com/73749474/160429135-d89974fa-b195-423c-bf11-bb4e794a6275.png">
 </a>
 
