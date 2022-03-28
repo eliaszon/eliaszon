@@ -2,14 +2,13 @@
   <img width="100%" src="https://user-images.githubusercontent.com/73749474/160429135-d89974fa-b195-423c-bf11-bb4e794a6275.png">
 </a>
 
-
-                                                            ### Hi I'm ELIAS ZON 👋
-
+  <h2 align="center"> Hi I'm ELIAS ZON 👋 </h2>
 
 
-                                                   A front-end developer, Still a student.
 
-                                                   Blogger, Cat lover, Lifelong learner. 😻
+<h4 align="center">A front-end developer, Still a student.</h4>
+
+<h4 align="center">Blogger, Cat lover, Lifelong learner. 😻</h4>
 
 - Read more about my [Blog](https://eliaszon.com/)
 - Ping me by [Email](mailto:eliaszon3@gmail.com)
