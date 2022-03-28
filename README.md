@@ -24,3 +24,7 @@ Here are some ideas to get you started:
 <div align="center">
     <img  src="https://github-readme-streak-stats.herokuapp.com/?user=Achuan-2" />
 </div>
+
+<div align="center">
+    <img src="https://activity-graph.herokuapp.com/graph?username=Achuan-2&theme=minimal" />
+</div>
