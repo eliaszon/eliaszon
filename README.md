@@ -2,17 +2,17 @@
   <img width="100%" src="https://user-images.githubusercontent.com/73749474/160429135-d89974fa-b195-423c-bf11-bb4e794a6275.png">
 </a>
 
-I'm a self-taught passionate FrontEnd developer
+### Hi I'm ELIAS ZON 👋
 
-**About me**
 
-- 💼 FrontEnd Engineer 
+A front-end developer, Still a student.
 
-- 📈 Still a student
+Blogger, Cat lover, Lifelong learner. 😻
 
-- ❤️ I love writing Javascipt, and building fun experiments on type-level
+- Read more about my [Blog](https://eliaszon.com/)
+- Ping me by [Email](mailto:eliaszon3@gmail.com)
+- Follow me on [Twitter](https://twitter.com/Elias_Zon).
 
-- 💬 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
