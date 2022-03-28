@@ -1,37 +1,14 @@
-   <!-- I'm <a href="">Tony Robin</a>!  -->
-</h2>
+I'm a self-taught passionate FrontEnd developer
 
-<h4 align='center'>
-   FullStack Engineer
-</h4>
+**About me**
 
-<!-- <p align="center">
-  <a href="https://www.youtube.com/c/DevProTips?sub_confirmation=1">
-    </a>
-     <a href="https://github.com/corasphinx">
-    <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/corasphinx?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=github&label=Follow"/></a>
-    </p> -->
+- 💼 FrontEnd Engineer 
 
-## 🧑 About me:
+- 📈 Still a student
 
-<p>
-I am working as a <b>Web</b> & <b>Mobile developer</b> for 7 years with <b>Blockchain</b> and have developed many projects according to clients' needs.<br>
-I am a <b>self-motivated</b> expert with a solid work ethic and a productive <b>self-starter</b>, which alongside my aptitude for learning, keeps me updated. <br>
-I am an <b>ambitious man</b> with rich experience.<br>
-Creative, sophisticated, dedicated engineer with imaginative and efficient solutions for large-scale websites.<br>
-Develop <b>high-quality</b> Mobile app for rapid deployment of bug fixes and new features using established development standards.<br>
-As an expert problem solver, responsive to client needs, and detail-oriented, I have a proven track record of consistently providing high levels of customer <b>satisfaction</b>.<br>
-I can contribute to your project as an individual <b>full-stack developer</b>. And if you want to work with our agency, I can lead teammates.<br>
-Always looking for <b>new</b> solutions and <b>new</b> challenges, <b>new</b> experiences.<br>
-</p>
+- ❤️ I love writing Javascipt, and building fun experiments on type-level
 
-<h2>🥇 Specialised in:</h2>
-<p>🔸 BlockChain - Web3, Dapp, NFT Marketplace
-  <br>🔸 DAO, DEX, Ethereum, Solidity, Smart Contract
-<br>🔸 FrontEnd - React.js, React-Native, Vue.js, AngularJS
-<br>🔸 BackEnd - Node, Express, Laravel, RoR
-<br>🔸 AWS and MLOPS
-<p>
+- 💬 
 
 <h2>ℹ️ &nbsp;Github Info</h2>
 	
