@@ -12,7 +12,7 @@
 
 - Read more about my [Blog](https://eliaszon.com/)
 - Ping me by [Email](mailto:eliaszon3@gmail.com)
-- Follow me on [Twitter](https://twitter.com/Elias_Zon).
+- Follow me on [Twitter](https://twitter.com/eliaszon3).
 
 
 <h2>ℹ️ &nbsp;Github Info</h2><br>
@@ -26,8 +26,6 @@
  <summary><b>🔥 Github Streaks</b></summary><br>
 <p align="center"><img src="https://github-readme-streak-stats.herokuapp.com/?user=eliaszon&theme=black-ice&hide_border=true&stroke=0000&background=0D1117&ring=e05397&fire=e05397&currStreakLabel=e05397" alt="eliaszon" /></p>
 
-<summary><b>📊 Github Contribution Graph</b></summary><br>
-<p align="center"<a href="#"><img alt="Ashish Kumar Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=eliaszon&bg_color=0D1117&color=e05397&line=e05397&point=FFFFFF&hide_border=true&" /></a></p>
 <!-- </details>
 <details>    -->
 <br>
