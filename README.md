@@ -2,7 +2,7 @@
   <img width="100%" src="https://user-images.githubusercontent.com/73749474/160446688-1f450f2e-afb8-4c6e-85aa-eb8c437f2342.png">
 </a>
 
-  <h2 align="center"> Hi I'm Elias Zon 👋 </h2>
+  <h2 align="center"> Hi I'm Elias Zeng 👋 </h2>
 
 
 
