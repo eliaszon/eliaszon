@@ -1,5 +1,5 @@
 <a href="https://www.eliaszon.com/">
-  <img width="100%" src="https://user-images.githubusercontent.com/73749474/219939552-c7a54bb4-d1f2-4b8d-97ae-1bf681a0f8b6.png">
+  <img width="100%" src="https://user-images.githubusercontent.com/73749474/222146837-e0768ec4-0882-4079-9d6a-95da4e008161.png">
 </a>
 
   <h2 align="center"> Hi I'm Elias Zeng 👋 </h2>
